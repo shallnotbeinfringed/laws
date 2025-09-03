@@ -1,5 +1,67 @@
 # Arizona Weapons Laws
 
+# 1867
+> Arizona--Legislative Assembly, Acts, Resolutions and Memorials adopted by the
+Fourth Legislative Assembly of the Territory of Arizona. Arizona Memory
+Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88874
+
+### An Act
+*To prevent the improper use of Deadly Weapons and the Indiscrimate use of Fire
+arms in the Towns and Villages of the Territory*
+
+> Section 1. That any person in this Territory, having, carrying or procuring
+from another person, any dirk, dirk knife, bowie knife, pistol, gun, or other
+deadly weapon, who shall in the presence of two or more persons, draw or
+exhibit any of said deadly weapons in a rude, angry or threatening manner, not
+in necessary self defence, or who shall in any manner unlawfully use the same
+in any fight or quarrel, the person or persons so offending upon conviction
+thereof in any criminal court. in any county of this Territory, shall be fined
+in any sum not le than one hundred nor more than five hundred dollars or
+imprisonment in the county jail not less than one nor more than six months, in
+the discretion of the court; or both such fine and imprisonment, together with
+the cost of prosecution.
+
+> Sec. 2. That any person or persons having or carrying any pistol or gun who
+shall in the public streets or highways discharge the same indiscriminately,
+thereby disturbing the peace and quiet, and endangering the lives of the
+inhabitants of any town or neighborhood in this Territory, such person or
+persons upon conviction thereof before any Justice of the Peace in the county
+where such offence may be committed shall be fined in any sum not less than ten
+nor more than fifty dollars and imprisonment in the county jail not less than
+two nor more than ten days, in the discretion of the Justice of the Peace,
+together with the cost of prosecution.
+
+> Sec. 3. It shall be the duty of all sheriffs, deputy sheriffs, constables,
+and all peace officer and private citizens to see that the provisions of
+section second of this act are enforced, by informing on all persons violating
+its provisions, by having them arrested and brought before the proper officer
+for trial and punishment.
+
+> Sec. 4. It is hereby made the duty of all civil and peace officers in this
+Territory to be diligent in carrying into effect the provisions of section one
+of this act, as well as all grand juries, or grand jurors, to enquire into and
+make presentment of each and every offence against the provisions of said
+section one of this act which shall come within their knowledge. And it is also
+made the duty of all judges in within this Territory to give said section one
+in charge of the grand juries at each term of their respective courts.
+
+> Sec. 5. This a.ct shall take effect and be in force from and after its
+passage.
+
+> Approved September 30, 1867
+
+### An Act
+*To Amend and Re-enact Chapter Fifty-two, Howell Code, "Of the
+Incorporation of Villages."*
+
+> SEC. 25 The Council shall have power to appoint all other officers necessary
+under the provisions of this chapter for said villages, whose elections are not
+herein provided for; to make by-laws and ordinances relative to the duties,
+powers, and fees of the Marshal, Treasurer, Assessor, and other officers; ...
+relative to the keeping and sale of gunpowder; ...
+
+> Approved October 3, 1867
+
 # 1864
 ## Howell Code
 > William T. Howell, The Howell code : adopted by the first legislative
