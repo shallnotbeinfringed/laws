@@ -1,13 +1,55 @@
 # Arizona Weapons Laws
 
+# 1875
+> Arizona--Legislative Assembly, Acts, Resolutions and Memorials adopted by the
+Eighth Legislative Assembly of the Territory of Arizona. Arizona Memory
+Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88878
+
+
+### An Act
+To amend an act entitled "To prevent the improper use of Deadly Weapons and the
+indiscriminate use of fire-arms in the Towns and Villages of the Territory;
+approved September 30th, 1867."
+
+> Section 1. Section one of an act entitled "An act to prevent
+the improper use of deadly weapons, and the indiscriminate
+use of fire-arms in Towns and Villages of the Territory ,
+approved September 30th, 1867," is amended to read as follows:
+
+> § 1. Any person in this Territory having, carrying, or procuring from another
+person, any dirk, dirk-knife, bowie-knife, pistol, gun, or other deadly weapon,
+who shall in the presence of two or more persons draw or exhibit any of said
+deadly weapons in a rude, angry, or threatening manner, not in necessary
+self-defense, or who shall in any manner unlawfully use the same in any fight
+or quarrel, the person or persons so offending, upon conviction thereof in any
+Justice's Court in any County in this Territory, shall be fined in any sum, not
+less than one hundred nor more than three hundred dollars, or imprisonment in
+the County jail not less than one nor more than six months, in the discretion
+of the court, or both such fine and imprisonment, together with the costs of
+prosecution.
+
+> Sec. 2. Section three of said act is amended to read as follows:
+
+> Sec. 3. It shall be the duty of all Sheriffs, Deputy Sheriffs, Constables,
+and all peace officers and private citizens to see that the provisions of this
+act are enforced, by informing on all persons violating its provisions, by
+having them arrested and brought before the proper officer for trial and
+punishment.
+
+> Sec. 3. Section four of said act is hereby repealed.
+
+> Sec. 4. This act shall take effect immediately.
+
+> Approved February 12th, 1875.
+
 # 1867
 > Arizona--Legislative Assembly, Acts, Resolutions and Memorials adopted by the
 Fourth Legislative Assembly of the Territory of Arizona. Arizona Memory
 Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88874
 
 ### An Act
-*To prevent the improper use of Deadly Weapons and the Indiscrimate use of Fire
-arms in the Towns and Villages of the Territory*
+*To prevent the improper use of Deadly Weapons and the Indiscriminate use of
+Fire Arms in the Towns and Villages of the Territory*
 
 > Section 1. That any person in this Territory, having, carrying or procuring
 from another person, any dirk, dirk knife, bowie knife, pistol, gun, or other
