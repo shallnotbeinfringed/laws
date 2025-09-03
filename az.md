@@ -2,10 +2,13 @@
 
 # 1864
 ## Howell Code
+> William T. Howell, The Howell code : adopted by the first legislative
+assembly of the territory of Arizona. Arizona Memory Project, accessed
+03/09/2025, https://azmemory.azlibrary.gov/nodes/view/38227
 
 [Bill of Rights](data/az/1864/howeel-frag-1.pdf)
 > Art.5 The right of the people to keep and bear arms for their own defence and
-> that of the government, shall not be infringed.
+that of the government, shall not be infringed.
 
 [Chapter X. Fifth Division](data/az/1865/howell-frag-2.pdf)
 > Sec. 41. If any person shall hereafter challenge another to fight a duel with
