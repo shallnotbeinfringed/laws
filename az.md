@@ -1,6 +1,39 @@
 # Arizona Weapons Laws
 
+## 1877
 
+> ### An Act
+> To Incorporate the City of Tucson.
+>
+> Article XIII.
+Of general powers of the common council.
+>
+> Third---... to regulate the storage of gunpowder and all other
+explosive materials, and to provide a place where it may be
+kept and compel the owners thereof to keep all explosive
+materials at such designated place;
+>
+
+---
+
+> ### An Act
+> *Amendatory of "An act to amend and re-enact chapter fifty-two, Howell Code,
+'Of the Incorporation of Villages.'"*
+>
+> SECTION. 1. That section twenty-five of an act entitled "An act to amend and
+re-enact chapter fifty-two, Howell Code, 'Of the incorporation of villages,'"
+approved October 3d, 1867, be so amended as to read as follows:
+>
+> § 25. The Council shall have power to appoint all other officers necessary
+under the provisions of this chapter for said villages, whose elections are not
+herein provided for; to make by-laws and ordinances relative to the duties,
+powers and fees of the Marshal, Treasurer, Assessor and other officers;
+> ...
+> relative to the keeping and sale of gunpowder;
+
+Arizona--Legislative Assembly, *Acts, Resolutions and Memorials of the Ninth
+Legislative Assembly of the Territory of Arizona*. Arizona Memory Project,
+accessed 15/05/2026, https://azmemory.azlibrary.gov/nodes/view/88879
 
 ## 1875
 
