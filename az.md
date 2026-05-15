@@ -123,7 +123,7 @@ thereof, be punished by imprisonment in the Territorial prison for any term not
 exceeding three years nor less than one year, and be fined in a sum not
 exceeding one thousand dollars.
 
-[Chapter X. Ninth Division](data/1864/howell-frag-3.pdf)
+[Chapter X. Ninth Division](data/az/1864/howell-frag-3.pdf)
 > Sec. 98. If any person shall carry to any convict imprisoned or in custody,
 or into any county jail or other place where such convict may be confined, any
 tool, weapon, or other aid, with intent to enable such convict to escape such
