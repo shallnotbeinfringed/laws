@@ -2,8 +2,12 @@
 
 ## 1877
 
+<details>
+
+<summary><i>To Incorporate the City of Tucson.</i></summary>
+
 > ### An Act
-> To Incorporate the City of Tucson.
+> *To Incorporate the City of Tucson.*
 >
 > Article XIII.
 Of general powers of the common council.
@@ -12,9 +16,17 @@ Of general powers of the common council.
 explosive materials, and to provide a place where it may be
 kept and compel the owners thereof to keep all explosive
 materials at such designated place;
->
+
+</details>
 
 ---
+
+<details>
+
+<summary>
+    <i>Amendatory of "An act to amend and re-enact chapter fifty-two, Howell
+    Code, 'Of the Incorporation of Villages.'"</i>
+</summary>
 
 > ### An Act
 > *Amendatory of "An act to amend and re-enact chapter fifty-two, Howell Code,
@@ -31,11 +43,27 @@ powers and fees of the Marshal, Treasurer, Assessor and other officers;
 > ...
 > relative to the keeping and sale of gunpowder;
 
+</details>
+
+<details>
+
+<summary>Source</summary>
+
 Arizona--Legislative Assembly, *Acts, Resolutions and Memorials of the Ninth
 Legislative Assembly of the Territory of Arizona*. Arizona Memory Project,
 accessed 15/05/2026, https://azmemory.azlibrary.gov/nodes/view/88879
 
+</details>
+
 ## 1875
+
+<details>
+
+<summary>
+    <i>To amend an act entitled "To prevent the improper use of Deadly Weapons
+    and the indiscriminate use of fire-arms in the Towns and Villages of the
+    Territory; approved September 30th, 1867."</i>
+</summary>
 
 > ### An Act
 > *To amend an act entitled "To prevent the improper use of Deadly Weapons and
@@ -72,12 +100,27 @@ punishment.
 >
 > Approved February 12th, 1875.
 
+</details>
+
+<details>
+
+<summary>Source</summary>
 
 Arizona--Legislative Assembly, *Acts, Resolutions and Memorials adopted by the
 Eighth Legislative Assembly of the Territory of Arizona*. Arizona Memory
 Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88878
 
-# 1867
+</details>
+
+## 1867
+
+<details>
+
+<summary>
+    <i>To prevent the improper use of Deadly Weapons and the Indiscriminate use
+    of Fire Arms in the Towns and Villages of the Territory.</i>
+</summary>
+
 > ### An Act
 > *To prevent the improper use of Deadly Weapons and the Indiscriminate use of
 Fire Arms in the Towns and Villages of the Territory*
@@ -122,7 +165,16 @@ charge of the grand juries at each term of their respective courts.
 >
 > Approved September 30, 1867
 
+</details>
+
 ---
+
+<details>
+
+<summary>
+    <i>To Amend and Re-enact Chapter Fifty-two, Howell Code, "Of the
+    Incorporation of Villages."</i>
+</summary>
 
 > ### An Act
 > *To Amend and Re-enact Chapter Fifty-two, Howell Code, "Of the
@@ -135,21 +187,42 @@ powers, and fees of the Marshal, Treasurer, Assessor, and other officers; ...
 relative to the keeping and sale of gunpowder; ...
 >
 > Approved October 3, 1867
->
+
+</details>
+
+<details>
+
+<summary>Source</summary>
+
 Arizona--Legislative Assembly, *Acts, Resolutions and Memorials adopted by the
 Fourth Legislative Assembly of the Territory of Arizona*. Arizona Memory
 Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88874
 
-# 1864
-## Howell Code
+</details>
 
-[Bill of Rights](data/az/1864/howeel-frag-1.pdf)
+## 1864
+### Howell Code
+
+<details>
+
+<summary>
+    <a href="data/az/1864/howell-frag-1.pdf"><i>Bill of Rights</i></a>
+</summary>
+
 > Art.5 The right of the people to keep and bear arms for their own defence and
 that of the government, shall not be infringed.
 
+</details>
+
 ---
 
-[Chapter X. Fifth Division](data/az/1865/howell-frag-2.pdf)
+<details>
+
+<summary>
+    <a href="data/az/1864/howell-frag-2.pdf"><i>Chapter X. Fifth
+    Division</i></a>
+</summary>
+
 > Sec. 41. If any person shall hereafter challenge another to fight a duel with
 any deadly weapon, or in any manner whatever, the probable issue of which might
 result in the death of either; or if any person shall accept a challenge or
@@ -158,9 +231,17 @@ thereof, be punished by imprisonment in the Territorial prison for any term not
 exceeding three years nor less than one year, and be fined in a sum not
 exceeding one thousand dollars.
 
+</details>
+
 ---
 
-[Chapter X. Ninth Division](data/az/1864/howell-frag-3.pdf)
+<details>
+
+<summary>
+    <a href="data/az/1864/howell-frag-3.pdf"><i>Chapter X. Ninth
+    Division</i></a>
+</summary>
+
 > Sec. 98. If any person shall carry to any convict imprisoned or in custody,
 or into any county jail or other place where such convict may be confined, any
 tool, weapon, or other aid, with intent to enable such convict to escape such
@@ -169,9 +250,17 @@ offending, on conviction thereof, shall be punished by a fine not exceeding
 five thousand dollars, and imprisonment in the Territorial prison not exceeding
 five years.
 
+</details>
+
 ---
 
-[Chapter X. Tenth Division](data/az/1864/howell-frag-4.pdf)
+<details>
+
+<summary>
+    <a href="data/az/1864/howell-frag-4.pdf"><i>Chapter X. Tenth
+    Division</i></a>
+</summary>
+
 > Sec. 129. If any person shall be found having upon him or her any picklock,
 crow, key-bitt, or other instrument or tool, with intent feloniously to break
 and enter into any dwelling-house, store, shop, warehouse, or other building
@@ -183,9 +272,17 @@ knife, dirk, bludgeon, or other offensive weapon, with intent to assault any
 person, every such person, on conviction, shall be fined not more than one
 hundred dollars or imprisoned in the county jail not more than three months.
 
+</details>
+
 ---
 
-[Chapter XI. Part 7 (Of Special Proceedings)](data/az/1864/howell-frag-5.pdf)
+<details>
+
+<summary>
+    <a href="data/az/1864/howell-frag-5.pdf"><i>Chapter XI. Part 7 (Of Special
+    Proceedings)</i></a>
+</summary>
+
 > Sec. 633. When a person charged with a felony is supposed by the magistrate
 before whom he is brought to have on his person a dangerous weapon or anything
 which may be used in evidence of the commission of the offence, the magistrate
@@ -193,6 +290,14 @@ may direct him to be searched in his presence, and the weapon or other thing to
 be retained subject to his order, or to the order of the court in which the
 defendant may be tried.
 
+</details>
+
+<details>
+
+<summary>Source</summary>
+
 William T. Howell, *The Howell code: adopted by the first legislative assembly
 of the territory of Arizona*. Arizona Memory Project, accessed 03/09/2025,
 https://azmemory.azlibrary.gov/nodes/view/38227
+
+</details>
