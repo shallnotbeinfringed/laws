@@ -5,3 +5,7 @@ of the source.
 
 ## States
 [Arizona](az.md)
+
+---
+
+All content in this repository is for educational purposes only and is not legal advice.
