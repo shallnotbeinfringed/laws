@@ -73,8 +73,8 @@ punishment.
 > Approved February 12th, 1875.
 
 
-Arizona--Legislative Assembly, Acts, Resolutions and Memorials adopted by the
-Eighth Legislative Assembly of the Territory of Arizona. Arizona Memory
+Arizona--Legislative Assembly, *Acts, Resolutions and Memorials adopted by the
+Eighth Legislative Assembly of the Territory of Arizona*. Arizona Memory
 Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88878
 
 # 1867
@@ -136,8 +136,8 @@ relative to the keeping and sale of gunpowder; ...
 >
 > Approved October 3, 1867
 >
-Arizona--Legislative Assembly, Acts, Resolutions and Memorials adopted by the
-Fourth Legislative Assembly of the Territory of Arizona. Arizona Memory
+Arizona--Legislative Assembly, *Acts, Resolutions and Memorials adopted by the
+Fourth Legislative Assembly of the Territory of Arizona*. Arizona Memory
 Project, accessed 03/09/2025, https://azmemory.azlibrary.gov/nodes/view/88874
 
 # 1864
@@ -193,6 +193,6 @@ may direct him to be searched in his presence, and the weapon or other thing to
 be retained subject to his order, or to the order of the court in which the
 defendant may be tried.
 
-William T. Howell, The Howell code : adopted by the first legislative
-assembly of the territory of Arizona. Arizona Memory Project, accessed
-03/09/2025, https://azmemory.azlibrary.gov/nodes/view/38227
+William T. Howell, *The Howell code: adopted by the first legislative assembly
+of the territory of Arizona*. Arizona Memory Project, accessed 03/09/2025,
+https://azmemory.azlibrary.gov/nodes/view/38227
